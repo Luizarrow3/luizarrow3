@@ -1,39 +1,48 @@
-# Olá, eu sou o Luiz Fernando! 👋
+# Olá, eu sou o Luiz Fernando! 👋 
 
-### 🚀 Desenvolvedor Backend Java | Especialista em Sistemas Escaláveis
-
-Sou um desenvolvedor focado em construir soluções robustas e eficientes para o lado do servidor. Tenho experiência em arquitetura de microsserviços, containerização e deploys em nuvem, buscando sempre a melhor performance e qualidade de código através de testes automatizados.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-#### **Backend**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-#### **Frontend**
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### **Qualidade**
-![Testes Automatizados](https://img.shields.io/badge/Testes%20Automatizados-JUnit%20%26%20Mockito-red?style=for-the-badge&logo=junit5&logoColor=white)
+### 🚀 Software Developer | Backend & Observability Specialist
+Engenheiro de software em ascensão, focado em construir sistemas escaláveis e garantir a saúde de aplicações críticas através de monitoramento estratégico.
 
 ---
 
-### 📫 Como me encontrar:
-
-* **LinkedIn:** .(https://linkedin.com/in/luiz-fernando-alves)
-* **E-mail:** luizfernandlg51@gmail.com
+## 📈 O que eu faço?
+- **Backend Architecture:** Desenvolvimento robusto com Java (Spring Boot) e automação inteligente com Python.
+- **Full Observability:** Implementação de stacks de monitoramento (Grafana/Prometheus) para visibilidade total do sistema.
+- **Enterprise Solutions:** Familiaridade com o ecossistema SAP S/4HANA e integrações modernas.
 
 ---
-"Código limpo sempre, qualidade nunca é opcional."
+
+## 🛠️ Stack Tecnológica
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend & Cloud** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |
+| **Monitoramento** | ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) |
+| **Database & SAP** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![SAP](https://img.shields.io/badge/-SAP%20S%2F4HANA-008FD3?logo=sap&logoColor=white) |
+| **Frontend** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
+| **Quality Assurance** | ![Tests](https://img.shields.io/badge/-Automated%20Tests-4CAF50?style=flat-square) (JUnit, Pytest, Mockito) |
+
+---
+
+## 🖥️ Sistemas Operacionais
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-fernando-alves-363165225/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizfernandolg51@gmail.com)
+
+---
+*“A medição é o primeiro passo para o controle e, eventualmente, para a melhoria.”*
 

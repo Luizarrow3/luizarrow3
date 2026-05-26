@@ -1,44 +1,55 @@
-# Olá, eu sou o Luiz Fernando! 👋 
+# Olá, eu sou o Luiz Fernando! 👋
 
-### 🚀 Software Developer | Backend & Observability Specialist
-Engenheiro de software em ascensão, focado em construir sistemas escaláveis e garantir a saúde de aplicações críticas através de monitoramento estratégico.
-
----
-
-## 📈 O que eu faço?
-- **Backend Architecture:** Desenvolvimento robusto com Java (Spring Boot) e automação inteligente com Python.
-- **Full Observability:** Implementação de stacks de monitoramento (Grafana/Prometheus) para visibilidade total do sistema.
-- **Enterprise Solutions:** Familiaridade com o ecossistema SAP S/4HANA e integrações modernas.
+Analista e Desenvolvedor focado no ecossistema **Salesforce** e no desenvolvimento de soluções robustas para o ecossistema corporativo. Combinando sólidos conhecimentos em arquitetura de software com práticas modernas de desenvolvimento, busco criar soluções eficientes, escaláveis e de alto impacto.
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Tecnologias & Skills Salesforce
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Backend & Cloud** | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |
-| **Monitoramento** | ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) |
-| **Database & SAP** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![SAP](https://img.shields.io/badge/-SAP%20S%2F4HANA-008FD3?logo=sap&logoColor=white) |
-| **Frontend** | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
-| **Quality Assurance** | ![Tests](https://img.shields.io/badge/-Automated%20Tests-4CAF50?style=flat-square) (JUnit, Pytest, Mockito) |
+Aqui estão as principais tecnologias e frameworks que utilizo no meu dia a dia para construir soluções personalizadas na plataforma Salesforce:
 
----
-
-## 🖥️ Sistemas Operacionais
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Apex-Salesforce-%231798c1?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
+  <img src="https://img.shields.io/badge/LWC-Lightning_Web_Components-%2300a1e0?style=for-the-badge&logo=salesforce&logoColor=white" alt="LWC" />
+  <img src="https://img.shields.io/badge/Aura_Components-Salesforce-%23004481?style=for-the-badge&logo=salesforce&logoColor=white" alt="Aura" />
+</p>
 
 ---
 
+## 💼 Competências & Domínio Técnico
 
+Minha atuação no ecossistema Salesforce envolve desde a customização programática avançada até a otimização de performance e boas práticas de arquitetura:
+
+* **Desenvolvimento Programático Avançado:** Criação de lógica de negócios complexa utilizando **Apex** (Triggers, Batch, Queueable e Schedulable Apex), respeitando estritamente os *governor limits* da plataforma.
+* **Modernização de Interface (UI/UX):** Construção de componentes dinâmicos e reativos com **Lightning Web Components (LWC)** utilizando padrões modernos de **JavaScript (ES6+)**, além de manutenção e migração de componentes legados em **Aura**.
+* **Integrações de Sistemas:** Desenvolvimento de integrações robustas consumindo e expondo serviços **REST/SOAP API** para conectar o Salesforce a sistemas externos e ERPs.
+* **Qualidade de Código & Testes:** Escrita de classes de teste eficientes com alta cobertura de código, focando em cenários reais (*bulkify*) e asserções precisas.
+* **Declaração & Automação:** Forte entendimento de ferramentas nativas e declarativas (Flows, Validation Rules) para garantir a melhor abordagem técnica (*Code vs. Low-Code*).
 
 ---
 
-## 📫 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-fernando-alves-363165225/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizfernandolg51@gmail.com)
+## 🚀 Outros Interesses & Conectividade
+
+* ☕ **Backend & Arquitetura:** Além de Salesforce, possuo forte interesse em arquitetura de software, desenvolvimento backend e ecossistemas de alta escalabilidade.
+* 📊 **Observabilidade:** Entusiasta de monitoramento, métricas e práticas modernas de infraestrutura.
 
 ---
-*“A medição é o primeiro passo para o controle e, eventualmente, para a melhoria.”*
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&theme=gotham&langs_count=6" alt="Linguagens mais usadas" height="180em" />
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://linkedin.com/in/luiz-fernando-alves-363165225/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
